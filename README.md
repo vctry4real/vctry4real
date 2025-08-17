@@ -1,10 +1,10 @@
-# 🚀 Victory Johnson  
+#  Hi 👋, I'm Victory Johnson  
 
 **`Full-Stack Software Engineer | Builder of Scalable Digital Solutions`**  
 
 I’m a passionate software engineer who loves **building, scaling, and shipping digital products** that solve real-world problems. From **full-stack web apps** to **workflow automation** and **e-commerce platforms**, I’ve delivered projects for startups and growing businesses, driving measurable impact.  
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/vctry4real?tab=followers">
     <img src="https://custom-icon-badges.demolab.com/github/followers/vctry4real?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
   </a>
