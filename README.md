@@ -88,20 +88,7 @@ A pastry e-commerce platform.
 
 ---
 
-## 📰 Latest Dev Activity  
-
-<!--START_SECTION:activity-->
-
-- 🎉 Merged PR **#12** in **MineApp**  
-- 💡 Opened issue **#8** in **Treasures**  
-- 🚀 Deployed **Dee’s Cake** on Vercel  
-- 📝 Updated **README** in Portfolio  
-
-<!--END_SECTION:activity-->  
-
----
-
-## 📺 Latest YouTube / Blog (Optional)  
+<!--## 📺 Latest YouTube / Blog (Optional) --> 
 
 <!-- BEGIN YOUTUBE-CARDS -->
 
